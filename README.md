@@ -1,5 +1,8 @@
 # notes_on_CHM
 
+## Home folder
+'/scratch/trueba/CHM/chm-compiled-r2013a-2.1.367'
+
 ## 1. How to load:
 
 module load MCR/R2013a
